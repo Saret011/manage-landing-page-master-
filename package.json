@@ -8,5 +8,10 @@
     "lint-staged": "^13.0.3",
     "live-server": "^1.2.2",
     "prettier": "^2.7.1"
-  }
+  },
+  "scripts": {
+    "start": "live-server ."
+  },
+  "repository": "git@github.com:Saret011/easybank-landing-page-master.git",
+  "author": "saret <saret.teran11@gmail.com>"
 }
